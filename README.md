@@ -2,15 +2,15 @@
 
 I have completed 3 total projects in which there are two Allocated Projects and one Golden Project.
 
-#Task1 - Time Conversion by Country
+Task1 - Time Conversion by Country
 This project is to convert the local time zone into the country zone time which is provided by the user as an input. This project uses Date and Time library in Java.
 Software Requirements - Eclipse IDE. 
 
-#Task2 - Library Book issue and return system.
+Task2 - Library Book issue and return system.
 This project is based on the core concepts of Java and DBMS. I have developed an application that consists of two databases, one for the Books and another for the students. There are two users admin and students. The student can borrow and return the book.
 Software Requirements - Eclipse IDE, MySQL WorkBench.
 
-#Task3 - Exam Seating Arrangement System in Java. 
+Task3 - Exam Seating Arrangement System in Java. 
 This project is based on the automated seating arrangement of students for exams. It has following 3 files :-
 
 Main.java
